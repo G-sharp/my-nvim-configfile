@@ -1,7 +1,8 @@
 # NeoVim Config
 
 `Linux` `Vim`
-@Author: Gsharp@2019
+
+Author: Gsharp@2019
 
 ## Usage
 
