@@ -2,7 +2,8 @@
 
 `Linux` `Vim`
 
-Author: Gsharp@2019
+Author: Gsharp
+Thanksto: theniceboy
 
 ## Usage
 
