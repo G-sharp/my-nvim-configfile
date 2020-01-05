@@ -14,11 +14,12 @@ Thanksto: theniceboy
    yum install -y neovim python3-neovim
    # you might need python2-neovim as well on older Fedora releases
    ```
+2. Check and Update
 
-```shell
+   ```shell
    cd ~/.config/
    git clone https://github.com/G-sharp/nvim.git
-   vi
+   nvim
    :PlugInstall
-```
+   ```
 
