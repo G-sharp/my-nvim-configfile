@@ -153,7 +153,8 @@ Plug 'rbgrouleff/bclose.vim' "for ranger
 Plug 'dhruvasagar/vim-table-mode',{'on':'TableModeToggle'}
 "Plug 'iamcco/markdown-preview.nvim',{'do':{-> mkdp#util#install_sync()}, 'for':['markdown','vim-plug']}
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install', 'for':'markdown'  }
-Plug 'theniceboy/bullets.vim'
+"Markdown TOC
+Plugin 'mzlogin/vim-markdown-toc'
 call plug#end()
 
 
